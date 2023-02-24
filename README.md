@@ -1,11 +1,8 @@
 ### Hi there 👋
 I'm Kurri Goutam
-- :birthday: Born on April 4th
-- :house: From City of destiny - Vizag
 - :round_pushpin: Missouri
 - :mortar_board: Currently: MS ACS student at Northwest Missouri State University
 - :computer: Previously: Application Developer at Accenture Ltd
-- :e-mail: How to reach me: kgoutam44@gmail.com
 - :book: Currently learning Java and Html
 - :bulb: Fun Fact: If it works, don't touch it
 
